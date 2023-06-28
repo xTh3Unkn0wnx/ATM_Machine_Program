@@ -1,4 +1,5 @@
 # ATM_Machine_Program
+### All programming and debugging were done through PyCharm
 A program that replicates the functionality and behavior of an ATM machine.
 
 When the program is executed, the user is first offered three choices: Login, Admin Login or Quit. <br><br>
